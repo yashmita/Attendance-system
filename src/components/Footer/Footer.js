@@ -46,10 +46,10 @@ class Footer extends Component {
                 </a>
               </li>
             </ul>
-            <p className="copyright text-center">
+            {/*<p className="copyright text-center">
               © {new Date().getFullYear()}{" "}
               <a href="https://www.techokids.com/">TechoKids</a>
-            </p>
+            </p>*/}
           </nav>
         </Container>
       </footer>
